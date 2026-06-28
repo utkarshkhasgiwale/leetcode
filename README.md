@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0445-add-two-numbers-ii) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
