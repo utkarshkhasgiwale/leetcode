@@ -42,6 +42,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/utkarshkhasgiwale/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/utkarshkhasgiwale/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Matrix
 |  |
 | ------- |
