@@ -1,10 +1,10 @@
 class Solution {
 public:
 
-    bool noOfCandies(vector<int>& candy, long long requiredStudents, int guess){
+    bool noOfCandies(vector<int>& candy, int n, long long requiredStudents, int guess){
         
         long long totalStudents = 0;
-        for(int i = 0; i< candy.size(); i++){
+        for(int i = 0; i< n; i++){
           int currStudents = candy[i] / guess;
           totalStudents += currStudents;
 
@@ -22,7 +22,7 @@ public:
 
         while(low <= high){
             int guess = (low + high) / 2;
-            bool canGiven = noOfCandies(candies, k, guess);
+            bool canGiven = noOfCandies(candies, n, k, guess);
 
             if(canGiven){
                 res = guess;
