@@ -49,6 +49,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1046-last-stone-weight) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/utkarshkhasgiwale/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
@@ -97,6 +98,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
