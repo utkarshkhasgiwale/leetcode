@@ -16,6 +16,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 ## Two Pointers
@@ -45,6 +46,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -90,6 +92,7 @@
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
@@ -99,6 +102,7 @@
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1046-last-stone-weight) |
@@ -111,6 +115,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
@@ -130,6 +135,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 ## String
