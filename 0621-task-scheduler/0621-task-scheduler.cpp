@@ -9,7 +9,7 @@ public:
          
           for(int i = 0; i < n; i++) {
             freq[tasks[i]]++;
-            free[tasks[i]] = 1;
+            free[tasks[i]] = 0;
             }
 
           for(auto x : freq)
@@ -39,6 +39,6 @@ public:
             seat++;
           }
 
-        return seat - 1;
+        return seat;
     }
 };
