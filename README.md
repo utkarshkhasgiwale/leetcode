@@ -48,6 +48,7 @@
 | [0410-split-array-largest-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -96,6 +97,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
@@ -107,6 +109,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -122,6 +125,7 @@
 | [0410-split-array-largest-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Prefix Sum
