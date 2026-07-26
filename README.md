@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1046-last-stone-weight) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -89,6 +91,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 | [0630-course-schedule-iii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +117,7 @@
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -137,6 +142,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -162,4 +168,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
