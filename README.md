@@ -62,6 +62,7 @@
 | [1046-last-stone-weight](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1710-maximum-units-on-a-truck](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/utkarshkhasgiwale/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1710-maximum-units-on-a-truck](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0630-course-schedule-iii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1710-maximum-units-on-a-truck](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Prefix Sum
 |  |
 | ------- |
