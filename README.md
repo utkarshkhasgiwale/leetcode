@@ -139,6 +139,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -178,6 +179,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0022-generate-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 ## Trie
@@ -204,4 +206,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
