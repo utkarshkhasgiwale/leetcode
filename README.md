@@ -45,6 +45,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -215,8 +216,13 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
