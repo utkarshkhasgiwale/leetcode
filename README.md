@@ -46,6 +46,7 @@
 | [0039-combination-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -111,6 +112,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -220,6 +222,7 @@
 | [0039-combination-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
