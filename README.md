@@ -252,6 +252,7 @@
 | [0226-invert-binary-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -266,6 +267,7 @@
 | [0226-invert-binary-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -282,6 +284,7 @@
 | [0226-invert-binary-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -318,4 +321,12 @@
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
