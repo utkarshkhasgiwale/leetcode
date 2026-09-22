@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -250,6 +251,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -269,6 +271,7 @@
 | [0101-symmetric-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -290,6 +293,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -334,6 +338,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
