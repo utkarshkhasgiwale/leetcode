@@ -18,6 +18,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0621-task-scheduler) |
@@ -57,6 +58,7 @@
 | [0074-search-a-2d-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -254,6 +257,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0113-path-sum-ii) |
@@ -304,6 +308,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0113-path-sum-ii) |
