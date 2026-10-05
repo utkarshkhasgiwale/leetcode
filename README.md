@@ -46,6 +46,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -274,6 +276,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -325,6 +328,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -359,6 +363,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -373,4 +378,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
