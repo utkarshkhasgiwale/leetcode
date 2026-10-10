@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
 ## Trie
