@@ -37,6 +37,7 @@
 | [0455-assign-cookies](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -145,6 +147,7 @@
 | [0658-find-k-closest-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0767-reorganize-string) |
+| [0905-sort-array-by-parity](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/utkarshkhasgiwale/leetcode/tree/master/1710-maximum-units-on-a-truck) |
