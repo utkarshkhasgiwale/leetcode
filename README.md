@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0125-valid-palindrome) |
@@ -60,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -187,6 +189,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0502-ipo) |
