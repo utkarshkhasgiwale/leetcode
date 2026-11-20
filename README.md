@@ -36,6 +36,7 @@
 | [0283-move-zeroes](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
@@ -111,6 +113,7 @@
 | [0275-h-index-ii](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
