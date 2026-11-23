@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0141-linked-list-cycle) |
@@ -11,6 +12,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0509-fibonacci-number](https://github.com/utkarshkhasgiwale/leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
